@@ -1,0 +1,7 @@
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll.config
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojAssemblyReference.cache

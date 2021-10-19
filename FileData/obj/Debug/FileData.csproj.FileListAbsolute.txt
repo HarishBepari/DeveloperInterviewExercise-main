@@ -1,0 +1,17 @@
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.exe.config
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.exe
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\Unity.Abstractions.dll
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\Unity.Container.dll
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.dll.config
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\Unity.Abstractions.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Debug\Unity.Container.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csproj.CopyComplete
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.exe
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.pdb

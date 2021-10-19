@@ -1,0 +1,11 @@
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Release\FileData.exe.config
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Release\FileData.exe
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Release\FileData.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Release\ThirdPartyTools.dll
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Release\ThirdPartyTools.pdb
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\bin\Release\ThirdPartyTools.dll.config
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Release\FileData.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Release\FileData.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Release\FileData.csproj.CopyComplete
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Release\FileData.exe
+C:\Users\hp\Downloads\DeveloperInterviewExercise-main\DeveloperInterviewExercise-main\FileData\obj\Release\FileData.pdb
